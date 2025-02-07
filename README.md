@@ -1,1 +1,1 @@
-# DL-homeworks
+# DL assignments
